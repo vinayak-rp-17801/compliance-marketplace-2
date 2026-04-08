@@ -1,0 +1,378 @@
+DETAILED TOOL FILES REPORT
+=============================================
+
+TOOL: Nessus
+Files Found: 15
+─────────────────────────────────────────────
+File 1: /tmp/tmp33tqw8t8/docs/002_23 NYCRR 500.docx
+  Filename: 002_23 NYCRR 500.docx
+  Occurrences: 1
+  Line 12: "...bility scan results from Nessus, Nexpose, Qualys, OpenVA..."
+
+File 2: /tmp/tmp33tqw8t8/docs/008_Australian ISM.docx
+  Filename: 008_Australian ISM.docx
+  Occurrences: 1
+  Line 11: "...ments, while OnPrem adds Nessus, Nexpose, Qualys, NMAP, ..."
+
+File 3: /tmp/tmp33tqw8t8/docs/011_BSI IT-GS.docx
+  Filename: 011_BSI IT-GS.docx
+  Occurrences: 1
+  Line 13: "...ity scanner outputs from Nessus, Nexpose, Qualys, and Op..."
+
+File 4: /tmp/tmp33tqw8t8/docs/012_BSI KritisV.docx
+  Filename: 012_BSI KritisV.docx
+  Occurrences: 1
+  Line 12: "... integrates outputs from Nessus, Nexpose, Qualys, and Op..."
+
+File 5: /tmp/tmp33tqw8t8/docs/019_CMMC v2.docx
+  Filename: 019_CMMC v2.docx
+  Occurrences: 1
+  Line 12: "... Log360 Cloud integrates Nessus, Qualys, Nexpose, and Op..."
+
+File 6: /tmp/tmp33tqw8t8/docs/025_China DSL.docx
+  Filename: 025_China DSL.docx
+  Occurrences: 1
+  Line 10: "...m extending coverage via Nessus, Nexpose, and Qualys vul..."
+
+File 7: /tmp/tmp33tqw8t8/docs/040_HITRUST e1.docx
+  Filename: 040_HITRUST e1.docx
+  Occurrences: 1
+  Line 12: "...ity scanner results from Nessus, Nexpose, Qualys, and Op..."
+
+File 8: /tmp/tmp33tqw8t8/docs/061_NBFC IT Governance.docx
+  Filename: 061_NBFC IT Governance.docx
+  Occurrences: 1
+  Line 10: "...60 Cloud integrates with Nessus, Nexpose, Qualys, and Op..."
+
+File 9: /tmp/tmp33tqw8t8/docs/069_NIST SP 800-82.docx
+  Filename: 069_NIST SP 800-82.docx
+  Occurrences: 1
+  Line 13: "... Log360 Cloud integrates Nessus, Nexpose, Qualys, NMAP, ..."
+
+File 10: /tmp/tmp33tqw8t8/docs/070_NIST SSDF.docx
+  Filename: 070_NIST SSDF.docx
+  Occurrences: 1
+  Line 12: "...60 Cloud integrates with Nessus, Nexpose, Qualys, and Op..."
+
+File 11: /tmp/tmp33tqw8t8/docs/086_RBI IT Framework.docx
+  Filename: 086_RBI IT Framework.docx
+  Occurrences: 1
+  Line 11: "...s alongside results from Nessus, Nexpose, Qualys, NMAP, ..."
+
+File 12: /tmp/tmp33tqw8t8/docs/089_SEBI-CSCRF.docx
+  Filename: 089_SEBI-CSCRF.docx
+  Occurrences: 1
+  Line 7: "... Log360 Cloud integrates Nessus, Nexpose, Qualys, OpenVA..."
+
+File 13: /tmp/tmp33tqw8t8/docs/091_SEPS.docx
+  Filename: 091_SEPS.docx
+  Occurrences: 1
+  Line 11: "...60 Cloud integrates with Nessus, Nexpose, Qualys, and NM..."
+
+File 14: /tmp/tmp33tqw8t8/docs/094_SWIFT CSCF.docx
+  Filename: 094_SWIFT CSCF.docx
+  Occurrences: 1
+  Line 13: "... Log360 Cloud integrates Nessus, Qualys, Nexpose, and Op..."
+
+File 15: /tmp/tmp33tqw8t8/docs/095_TPN.docx
+  Filename: 095_TPN.docx
+  Occurrences: 1
+  Line 11: "... while OnPrem integrates Nessus, Nexpose, Qualys, NMAP."
+
+
+TOOL: Nexpose
+Files Found: 15
+─────────────────────────────────────────────
+File 1: /tmp/tmp33tqw8t8/docs/002_23 NYCRR 500.docx
+  Filename: 002_23 NYCRR 500.docx
+  Occurrences: 1
+  Line 12: "...can results from Nessus, Nexpose, Qualys, OpenVAS, and NM..."
+
+File 2: /tmp/tmp33tqw8t8/docs/008_Australian ISM.docx
+  Filename: 008_Australian ISM.docx
+  Occurrences: 1
+  Line 11: "...hile OnPrem adds Nessus, Nexpose, Qualys, NMAP, OpenVAS."
+
+File 3: /tmp/tmp33tqw8t8/docs/011_BSI IT-GS.docx
+  Filename: 011_BSI IT-GS.docx
+  Occurrences: 1
+  Line 13: "...ner outputs from Nessus, Nexpose, Qualys, and OpenVAS, an..."
+
+File 4: /tmp/tmp33tqw8t8/docs/012_BSI KritisV.docx
+  Filename: 012_BSI KritisV.docx
+  Occurrences: 1
+  Line 12: "...tes outputs from Nessus, Nexpose, Qualys, and OpenVAS sca..."
+
+File 5: /tmp/tmp33tqw8t8/docs/019_CMMC v2.docx
+  Filename: 019_CMMC v2.docx
+  Occurrences: 1
+  Line 12: "...tegrates Nessus, Qualys, Nexpose, and OpenVAS scan result..."
+
+File 6: /tmp/tmp33tqw8t8/docs/025_China DSL.docx
+  Filename: 025_China DSL.docx
+  Occurrences: 1
+  Line 10: "...ing coverage via Nessus, Nexpose, and Qualys vulnerabilit..."
+
+File 7: /tmp/tmp33tqw8t8/docs/040_HITRUST e1.docx
+  Filename: 040_HITRUST e1.docx
+  Occurrences: 1
+  Line 12: "...ner results from Nessus, Nexpose, Qualys, and OpenVAS to ..."
+
+File 8: /tmp/tmp33tqw8t8/docs/061_NBFC IT Governance.docx
+  Filename: 061_NBFC IT Governance.docx
+  Occurrences: 1
+  Line 10: "... integrates with Nessus, Nexpose, Qualys, and OpenVAS sca..."
+
+File 9: /tmp/tmp33tqw8t8/docs/069_NIST SP 800-82.docx
+  Filename: 069_NIST SP 800-82.docx
+  Occurrences: 1
+  Line 13: "...Cloud integrates Nessus, Nexpose, Qualys, NMAP, and OpenV..."
+
+File 10: /tmp/tmp33tqw8t8/docs/070_NIST SSDF.docx
+  Filename: 070_NIST SSDF.docx
+  Occurrences: 1
+  Line 12: "... integrates with Nessus, Nexpose, Qualys, and OpenVAS sca..."
+
+File 11: /tmp/tmp33tqw8t8/docs/086_RBI IT Framework.docx
+  Filename: 086_RBI IT Framework.docx
+  Occurrences: 1
+  Line 11: "...ide results from Nessus, Nexpose, Qualys, NMAP, and OpenV..."
+
+File 12: /tmp/tmp33tqw8t8/docs/089_SEBI-CSCRF.docx
+  Filename: 089_SEBI-CSCRF.docx
+  Occurrences: 1
+  Line 7: "...Cloud integrates Nessus, Nexpose, Qualys, OpenVAS, Threat..."
+
+File 13: /tmp/tmp33tqw8t8/docs/091_SEPS.docx
+  Filename: 091_SEPS.docx
+  Occurrences: 1
+  Line 11: "... integrates with Nessus, Nexpose, Qualys, and NMAP scanne..."
+
+File 14: /tmp/tmp33tqw8t8/docs/094_SWIFT CSCF.docx
+  Filename: 094_SWIFT CSCF.docx
+  Occurrences: 1
+  Line 13: "...tegrates Nessus, Qualys, Nexpose, and OpenVAS results to ..."
+
+File 15: /tmp/tmp33tqw8t8/docs/095_TPN.docx
+  Filename: 095_TPN.docx
+  Occurrences: 1
+  Line 11: "...nPrem integrates Nessus, Nexpose, Qualys, NMAP."
+
+
+TOOL: Qualys
+Files Found: 15
+─────────────────────────────────────────────
+File 1: /tmp/tmp33tqw8t8/docs/002_23 NYCRR 500.docx
+  Filename: 002_23 NYCRR 500.docx
+  Occurrences: 1
+  Line 12: "...ts from Nessus, Nexpose, Qualys, OpenVAS, and NMAP, moni..."
+
+File 2: /tmp/tmp33tqw8t8/docs/008_Australian ISM.docx
+  Filename: 008_Australian ISM.docx
+  Occurrences: 1
+  Line 11: "...em adds Nessus, Nexpose, Qualys, NMAP, OpenVAS."
+
+File 3: /tmp/tmp33tqw8t8/docs/011_BSI IT-GS.docx
+  Filename: 011_BSI IT-GS.docx
+  Occurrences: 1
+  Line 13: "...ts from Nessus, Nexpose, Qualys, and OpenVAS, and monito..."
+
+File 4: /tmp/tmp33tqw8t8/docs/012_BSI KritisV.docx
+  Filename: 012_BSI KritisV.docx
+  Occurrences: 1
+  Line 12: "...ts from Nessus, Nexpose, Qualys, and OpenVAS scanners an..."
+
+File 5: /tmp/tmp33tqw8t8/docs/019_CMMC v2.docx
+  Filename: 019_CMMC v2.docx
+  Occurrences: 1
+  Line 12: "...Cloud integrates Nessus, Qualys, Nexpose, and OpenVAS sc..."
+
+File 6: /tmp/tmp33tqw8t8/docs/025_China DSL.docx
+  Filename: 025_China DSL.docx
+  Occurrences: 1
+  Line 10: "...via Nessus, Nexpose, and Qualys vulnerability scans."
+
+File 7: /tmp/tmp33tqw8t8/docs/040_HITRUST e1.docx
+  Filename: 040_HITRUST e1.docx
+  Occurrences: 1
+  Line 12: "...ts from Nessus, Nexpose, Qualys, and OpenVAS to track vu..."
+
+File 8: /tmp/tmp33tqw8t8/docs/061_NBFC IT Governance.docx
+  Filename: 061_NBFC IT Governance.docx
+  Occurrences: 1
+  Line 10: "...es with Nessus, Nexpose, Qualys, and OpenVAS scanners wh..."
+
+File 9: /tmp/tmp33tqw8t8/docs/069_NIST SP 800-82.docx
+  Filename: 069_NIST SP 800-82.docx
+  Occurrences: 1
+  Line 13: "...egrates Nessus, Nexpose, Qualys, NMAP, and OpenVAS vulne..."
+
+File 10: /tmp/tmp33tqw8t8/docs/070_NIST SSDF.docx
+  Filename: 070_NIST SSDF.docx
+  Occurrences: 1
+  Line 12: "...es with Nessus, Nexpose, Qualys, and OpenVAS scanners wh..."
+
+File 11: /tmp/tmp33tqw8t8/docs/086_RBI IT Framework.docx
+  Filename: 086_RBI IT Framework.docx
+  Occurrences: 1
+  Line 11: "...ts from Nessus, Nexpose, Qualys, NMAP, and OpenVAS to su..."
+
+File 12: /tmp/tmp33tqw8t8/docs/089_SEBI-CSCRF.docx
+  Filename: 089_SEBI-CSCRF.docx
+  Occurrences: 1
+  Line 7: "...egrates Nessus, Nexpose, Qualys, OpenVAS, Threat Analyti..."
+
+File 13: /tmp/tmp33tqw8t8/docs/091_SEPS.docx
+  Filename: 091_SEPS.docx
+  Occurrences: 1
+  Line 11: "...es with Nessus, Nexpose, Qualys, and NMAP scanners while..."
+
+File 14: /tmp/tmp33tqw8t8/docs/094_SWIFT CSCF.docx
+  Filename: 094_SWIFT CSCF.docx
+  Occurrences: 1
+  Line 13: "...Cloud integrates Nessus, Qualys, Nexpose, and OpenVAS re..."
+
+File 15: /tmp/tmp33tqw8t8/docs/095_TPN.docx
+  Filename: 095_TPN.docx
+  Occurrences: 1
+  Line 11: "...egrates Nessus, Nexpose, Qualys, NMAP."
+
+
+TOOL: NMAP
+Files Found: 6
+─────────────────────────────────────────────
+File 1: /tmp/tmp33tqw8t8/docs/002_23 NYCRR 500.docx
+  Filename: 002_23 NYCRR 500.docx
+  Occurrences: 1
+  Line 12: "...se, Qualys, OpenVAS, and NMAP, monitors remediation pr..."
+
+File 2: /tmp/tmp33tqw8t8/docs/008_Australian ISM.docx
+  Filename: 008_Australian ISM.docx
+  Occurrences: 1
+  Line 11: "...Nessus, Nexpose, Qualys, NMAP, OpenVAS."
+
+File 3: /tmp/tmp33tqw8t8/docs/069_NIST SP 800-82.docx
+  Filename: 069_NIST SP 800-82.docx
+  Occurrences: 1
+  Line 13: "...Nessus, Nexpose, Qualys, NMAP, and OpenVAS vulnerabili..."
+
+File 4: /tmp/tmp33tqw8t8/docs/086_RBI IT Framework.docx
+  Filename: 086_RBI IT Framework.docx
+  Occurrences: 1
+  Line 11: "...Nessus, Nexpose, Qualys, NMAP, and OpenVAS to support ..."
+
+File 5: /tmp/tmp33tqw8t8/docs/091_SEPS.docx
+  Filename: 091_SEPS.docx
+  Occurrences: 1
+  Line 11: "...us, Nexpose, Qualys, and NMAP scanners while monitorin..."
+
+File 6: /tmp/tmp33tqw8t8/docs/095_TPN.docx
+  Filename: 095_TPN.docx
+  Occurrences: 1
+  Line 11: "...Nessus, Nexpose, Qualys, NMAP."
+
+
+TOOL: OpenVAS
+Files Found: 12
+─────────────────────────────────────────────
+File 1: /tmp/tmp33tqw8t8/docs/002_23 NYCRR 500.docx
+  Filename: 002_23 NYCRR 500.docx
+  Occurrences: 1
+  Line 12: "...Nessus, Nexpose, Qualys, OpenVAS, and NMAP, monitors reme..."
+
+File 2: /tmp/tmp33tqw8t8/docs/008_Australian ISM.docx
+  Filename: 008_Australian ISM.docx
+  Occurrences: 1
+  Line 11: "..., Nexpose, Qualys, NMAP, OpenVAS."
+
+File 3: /tmp/tmp33tqw8t8/docs/011_BSI IT-GS.docx
+  Filename: 011_BSI IT-GS.docx
+  Occurrences: 1
+  Line 13: "...us, Nexpose, Qualys, and OpenVAS, and monitors software u..."
+
+File 4: /tmp/tmp33tqw8t8/docs/012_BSI KritisV.docx
+  Filename: 012_BSI KritisV.docx
+  Occurrences: 1
+  Line 12: "...us, Nexpose, Qualys, and OpenVAS scanners and monitors so..."
+
+File 5: /tmp/tmp33tqw8t8/docs/019_CMMC v2.docx
+  Filename: 019_CMMC v2.docx
+  Occurrences: 1
+  Line 12: "...us, Qualys, Nexpose, and OpenVAS scan results with threat..."
+
+File 6: /tmp/tmp33tqw8t8/docs/040_HITRUST e1.docx
+  Filename: 040_HITRUST e1.docx
+  Occurrences: 1
+  Line 12: "...us, Nexpose, Qualys, and OpenVAS to track vulnerability r..."
+
+File 7: /tmp/tmp33tqw8t8/docs/061_NBFC IT Governance.docx
+  Filename: 061_NBFC IT Governance.docx
+  Occurrences: 1
+  Line 10: "...us, Nexpose, Qualys, and OpenVAS scanners while monitorin..."
+
+File 8: /tmp/tmp33tqw8t8/docs/069_NIST SP 800-82.docx
+  Filename: 069_NIST SP 800-82.docx
+  Occurrences: 1
+  Line 13: "...xpose, Qualys, NMAP, and OpenVAS vulnerability scan repor..."
+
+File 9: /tmp/tmp33tqw8t8/docs/070_NIST SSDF.docx
+  Filename: 070_NIST SSDF.docx
+  Occurrences: 1
+  Line 12: "...us, Nexpose, Qualys, and OpenVAS scanners while monitorin..."
+
+File 10: /tmp/tmp33tqw8t8/docs/086_RBI IT Framework.docx
+  Filename: 086_RBI IT Framework.docx
+  Occurrences: 1
+  Line 11: "...xpose, Qualys, NMAP, and OpenVAS to support vulnerability..."
+
+File 11: /tmp/tmp33tqw8t8/docs/089_SEBI-CSCRF.docx
+  Filename: 089_SEBI-CSCRF.docx
+  Occurrences: 1
+  Line 7: "...Nessus, Nexpose, Qualys, OpenVAS, Threat Analytics, and T..."
+
+File 12: /tmp/tmp33tqw8t8/docs/094_SWIFT CSCF.docx
+  Filename: 094_SWIFT CSCF.docx
+  Occurrences: 1
+  Line 13: "...us, Qualys, Nexpose, and OpenVAS results to provide vulne..."
+
+
+TOOL: Malwarebytes
+Files Found: 0
+─────────────────────────────────────────────
+  NOT FOUND in any document.
+
+TOOL: vCenter
+Files Found: 0
+─────────────────────────────────────────────
+  NOT FOUND in any document.
+
+TOOL: PAM360
+Files Found: 5
+─────────────────────────────────────────────
+File 1: /tmp/tmp33tqw8t8/docs/007_AU SOCI.docx
+  Filename: 007_AU SOCI.docx
+  Occurrences: 1
+  Line 10: "...vents, AD MFA logon, and PAM360 access control and passw..."
+
+File 2: /tmp/tmp33tqw8t8/docs/041_HKMA C-RAF.docx
+  Filename: 041_HKMA C-RAF.docx
+  Occurrences: 1
+  Line 7: "... Entra ID MFA logon, and PAM360 password policy complian..."
+
+File 3: /tmp/tmp33tqw8t8/docs/089_SEBI-CSCRF.docx
+  Filename: 089_SEBI-CSCRF.docx
+  Occurrences: 2
+  Line 7: "...ommands, MFA events, and PAM360 access activities. The e..."
+  Line 13: "...olicy modifications, and PAM360 password activities to d..."
+
+File 4: /tmp/tmp33tqw8t8/docs/092_SG CSA CCoP.docx
+  Filename: 092_SG CSA CCoP.docx
+  Occurrences: 1
+  Line 7: "... Entra ID MFA logon, and PAM360 password policy complian..."
+
+File 5: /tmp/tmp33tqw8t8/docs/096_TSA Cyber Directives.docx
+  Filename: 096_TSA Cyber Directives.docx
+  Occurrences: 1
+  Line 10: "...vents, AD MFA logon, and PAM360 access control and passw..."
+
+
